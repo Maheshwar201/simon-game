@@ -15,7 +15,6 @@ Top: When having JavaScript events function on elements
 immediately is more important (so if you use a DOM Ready
 event to load everything, this is the wrong place)
 
-Bottom: When loading the content is more important
 
 */
 
